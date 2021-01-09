@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WSP_PipeChat_A", "WSP_PipeChat_A\WSP_PipeChat_A.vcxproj", "{AF886D98-F270-4A4D-B4A9-276ABB9A387C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WSP_PipeChat_B", "WSP_PipeChat_B\WSP_PipeChat_B.vcxproj", "{45318502-D591-46A0-A286-14D7FE1E2C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF886D98-F270-4A4D-B4A9-276ABB9A387C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF886D98-F270-4A4D-B4A9-276ABB9A387C}.Debug|Win32.Build.0 = Debug|Win32
+		{AF886D98-F270-4A4D-B4A9-276ABB9A387C}.Debug|x64.ActiveCfg = Debug|Win32
+		{AF886D98-F270-4A4D-B4A9-276ABB9A387C}.Release|Win32.ActiveCfg = Release|Win32
+		{AF886D98-F270-4A4D-B4A9-276ABB9A387C}.Release|Win32.Build.0 = Release|Win32
+		{AF886D98-F270-4A4D-B4A9-276ABB9A387C}.Release|x64.ActiveCfg = Release|Win32
+		{45318502-D591-46A0-A286-14D7FE1E2C13}.Debug|Win32.ActiveCfg = Debug|Win32
+		{45318502-D591-46A0-A286-14D7FE1E2C13}.Debug|Win32.Build.0 = Debug|Win32
+		{45318502-D591-46A0-A286-14D7FE1E2C13}.Debug|x64.ActiveCfg = Debug|Win32
+		{45318502-D591-46A0-A286-14D7FE1E2C13}.Release|Win32.ActiveCfg = Release|Win32
+		{45318502-D591-46A0-A286-14D7FE1E2C13}.Release|Win32.Build.0 = Release|Win32
+		{45318502-D591-46A0-A286-14D7FE1E2C13}.Release|x64.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E259AD7-5C67-4905-94D4-9DB1CC9E2742}
+	EndGlobalSection
+EndGlobal
